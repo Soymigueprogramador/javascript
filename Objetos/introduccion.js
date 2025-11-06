@@ -13,4 +13,6 @@ let usuario = {
     }
 };
 
+console.log(usuario);
+
 // Esto es: Programacion Orientada a Objetos (POO)
